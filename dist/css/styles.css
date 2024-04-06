@@ -11050,6 +11050,7 @@ header.masthead .masthead-heading {
 }
 .portfolio-modal .modal-content p {
   margin-bottom: 2rem;
+  text-align: left;
 }
 .portfolio-modal .modal-content ul.list-inline {
   margin-bottom: 2rem;
